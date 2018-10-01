@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5DPlatform", "Assembly-CSharp.csproj", "{62EC5C2A-FA6A-CAB0-A523-08016FEDD644}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{62EC5C2A-FA6A-CAB0-A523-08016FEDD644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5DPlatform", "Assembly-CSharp-Editor.csproj", "{34F925B7-7901-5A36-9B50-84AD3027CB34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{34F925B7-7901-5A36-9B50-84AD3027CB34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
